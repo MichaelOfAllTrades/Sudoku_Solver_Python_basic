@@ -200,6 +200,7 @@ class Sudoku_Solver:
         print(self.columns)
         print(self.squares)
 
+    # https://pysnakeblog.blogspot.com/2019/09/python-underline-string-python.html
     # def print_board_with_underlines(self):
     #     for i in range(0, 8):
     #         for j in range(0, 8):
